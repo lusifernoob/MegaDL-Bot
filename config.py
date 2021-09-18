@@ -25,11 +25,11 @@ class TEXT:
 
 📡 **Hosted On:** [Heroku](https://heroku.com)
 
-🧑‍💻 **Developer:** [Safone](https://t.me/ImSafone)
+🧑‍💻 **Developer:** [𝘕𝘰𝘰𝘣](https://t.me/shado_hackers)
 
-👥 **Support Group:** [SafoTheBot](https://t.me/safothebot)
+📢 **Support Group:** [@𝐎𝐌𝐆_𝐢𝐧𝐟𝐨](https://t.me/OMG_info)
 
-📢 **Updates Channel:** [Ｓ１ ＢＯＴＳ](https://t.me/AsmSafone)
+📱 **Follow me :** [𝚃𝚠𝚒𝚝𝚝𝚎𝚛](https://mobile.twitter.com/Lusifer_noob)
 """
 
   HELP_USER = """
@@ -37,7 +37,7 @@ This is **{bot_name}**
 
 This Bot Can Download Files & Videos From Mega Links & Upload To Telegram. Just Send Any Mega.nz Link & See The Magic. You Can Also Add or Change Caption: Just Select An Uploaded File/ Video or Forward Me Any Telegram File & Then Write The Text You Want To Be Caption On The File As A Reply To That File & The Text You Wrote Will Be Attached As Caption 😁! 
 
-**Made With ❤️ By @AsmSafone! 👑**
+**Made With ❤️ By @shado_hackers! 👑**
 """
 
   START_TEXT = """
