@@ -30,8 +30,8 @@ async def progress_for_pyrogram(
         estimated_total_time = TimeFormatter(milliseconds=estimated_total_time)
 
         progress = "`[{0}{1}]` \n".format(
-            ''.join(["●" for i in range(math.floor(percentage / 5))]),
-            ''.join(["○" for i in range(20 - math.floor(percentage / 5))])
+            ''.join(["✨" for i in range(math.floor(percentage / 5))]),
+            ''.join(["⚡" for i in range(20 - math.floor(percentage / 5))])
             )
         
         ok = "`{0}%` \n".format(
@@ -46,7 +46,7 @@ async def progress_for_pyrogram(
         )
         try:
             await message.edit(
-                text="**{}** {} \n\n**@AsmSafone | @SafoTheBot**".format(
+                text="**{}** {} \n\n**@OMG_info | @shado_hackers**".format(
                     ud_type,
                     tmp
                 ),
