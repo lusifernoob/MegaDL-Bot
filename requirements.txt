@@ -1,6 +1,6 @@
 Pyrogram
 TgCrypto
-git+https://github.com/AsmSafone/mega.py.git
+git+https://github.com/lusifernoob/mega.py.git
 moviepy
 filetype
 ffmpeg-python
